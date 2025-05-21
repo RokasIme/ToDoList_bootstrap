@@ -8,8 +8,6 @@ A simple and functional To Do List application designed to help you manage and t
 
 Site published at: https://rokasime.github.io/ToDoList_bootstrap/
 
-Design: !by mentorė Gabija
-
 ## 🎯 Project features/goals
 
 - Github pages
